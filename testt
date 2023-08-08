@@ -1,0 +1,4 @@
+ app.UseMicrosoftAccountAuthentication(
+                clientId: "15f8e693-907f-4621-9c15-9fd5ad899043",
+                clientSecret: "BNs8Q~LnKPm9T4XtpIaEDrwbK~yVtJOg14In_cfm");
+https://code-maze.com/external-identity-provider-aspnet-core-identity/
